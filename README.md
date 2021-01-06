@@ -1,1 +1,5 @@
-# masterTechnical-support
+
+
+这里有课程拼团学习，和小伙伴运动爱好者一起拼团报名课程。也有运动视频观看，助你进步。
+
+如果您有任何问题，请联系技术支持邮箱:qinsusuzxc@icloud.com。谢谢你的支持。
